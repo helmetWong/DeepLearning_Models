@@ -17,10 +17,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 
 ################################################################################################
 #
-# This program demonstrates
-# 
-#
-#  
+# This program demonstrates the use of ResNet50 and ResNet152, and transfer learning.   
 #  
 #
 ################################################################################################
